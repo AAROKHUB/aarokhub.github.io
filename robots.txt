@@ -1,0 +1,11 @@
+# robots.txt pour aarok.fr
+# Vitrine technologique de AAROK
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://aarok.fr/sitemap.xml
+
+# Crawl-delay pour éviter la surcharge
+Crawl-delay: 1
