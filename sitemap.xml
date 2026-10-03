@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://aarokhub.github.io/</loc>
-    <lastmod>2026-10-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://aarokhub.github.io/</loc><lastmod>2026-10-03</lastmod><priority>1.0</priority></url>
+  <url><loc>https://aarokhub.github.io/services/creation-site-web</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
+  <url><loc>https://aarokhub.github.io/services/referencement-local</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
+  <url><loc>https://aarokhub.github.io/services/identite-visuelle</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
+  <url><loc>https://aarokhub.github.io/services/supports-print-flocage</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
+  <url><loc>https://aarokhub.github.io/services/reseaux-sociaux</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
+  <url><loc>https://aarokhub.github.io/services/video-3d</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
+  <url><loc>https://aarokhub.github.io/services/applications</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
+  <url><loc>https://aarokhub.github.io/services/cybersecurite</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
+  <url><loc>https://aarokhub.github.io/realisations/colloca-ccr</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
+  <url><loc>https://aarokhub.github.io/realisations/basnier-paysage</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
+  <url><loc>https://aarokhub.github.io/realisations/kine-serenite</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
+  <url><loc>https://aarokhub.github.io/realisations/aarok-hub</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
+  <url><loc>https://aarokhub.github.io/realisations/aarok-card</loc><lastmod>2026-10-03</lastmod><priority>0.7</priority></url>
 </urlset>
