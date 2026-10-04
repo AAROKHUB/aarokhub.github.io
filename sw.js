@@ -1,9 +1,9 @@
-/* AAROK — Service worker : site installable + consultable hors ligne.
+/* AVOK — Service worker : site installable + consultable hors ligne.
  * - Pages HTML : réseau d'abord (toujours la dernière version), cache en secours.
  * - Fichiers /assets/ (noms hachés, immuables) et images : cache d'abord.
  * - Les requêtes vers d'autres domaines (Web3Forms, polices…) ne sont jamais interceptées.
  */
-const VERSION = 'aarok-v1';
+const VERSION = 'avok-v1';
 const PRECACHE = ['/', '/favicon.svg', '/manifest.webmanifest'];
 
 self.addEventListener('install', (e) => {

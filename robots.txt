@@ -1,4 +1,4 @@
-# robots.txt - AAROK
+# robots.txt - AVOK
 User-agent: *
 Allow: /
 
